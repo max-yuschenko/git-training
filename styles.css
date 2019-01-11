@@ -1,9 +1,9 @@
 body {
     background-color: #ccc;
-<<<<<<< HEAD
-    font-size: 15px;
+    font-size: 35px;
     font: 23em sans-serif;
-=======
-    font-size: 30px;
->>>>>>> b1
+}
+
+h2{
+    font: sans-serif;
 }
